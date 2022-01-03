@@ -1,0 +1,3 @@
+[submodule "convert/yolov5"]
+	path = convert/yolov5
+	url = https://github.com/ultralytics/yolov5.git
